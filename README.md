@@ -2,7 +2,7 @@
 
 > **🚨 Note:** This project is currently a Work in Progress. 
 
-## Video Results: Progressive Reconstruction
+## Video Results: Reconstruction
 *(Gray: Ground Truth, Colored: Reconstruction)*
 
 <table align="center">
